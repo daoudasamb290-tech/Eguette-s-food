@@ -1,0 +1,8 @@
+{
+  "name": "Remix Eguette\u0027s Street Food Dakar",
+  "description": "Application de commande en ligne Eguette\u0027s Dakar : Bubble Waffles gourmandes, Eggetta Burgers, Crêpes salées, Egg\u0027Toast et boissons artisanales avec livraison rapide à Dakar et Saly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
